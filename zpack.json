@@ -1,7 +1,7 @@
 {
   "$schema": "https://github.com/glzr-io/zebar/raw/v3.0.0/resources/zpack-schema.json",
   "name": "reasonable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a very minimalist bar",
   "tags": [
     "sidebar"
