@@ -9,7 +9,7 @@
   "previewImages": [
     "resources\\reasonable.png"
   ],
-  "repositoryUrl": "",
+  "repositoryUrl": "https://github.com/oyvinw/reasonable-zebar",
   "widgets": [
     {
       "name": "vertical",
