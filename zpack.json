@@ -9,7 +9,7 @@
   "previewImages": [
     "resources\\reasonable.png"
   ],
-  "repositoryUrl": "https://github.com/oyvinw/reasonable-zebar",
+  "repositoryUrl": "https://github.com/furamon/reasonable-zebar",
   "widgets": [
     {
       "name": "vertical",
@@ -34,10 +34,10 @@
         {
           "name": "default",
           "anchor": "top_left",
-          "offsetX": "10px",
-          "offsetY": "20px",
+          "offsetX": "0px",
+          "offsetY": "0px",
           "width": "60px",
-          "height": "1400px",
+          "height": "2160px",
           "monitorSelection": {
             "type": "all"
           },
